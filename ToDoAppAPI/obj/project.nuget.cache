@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mRBKGx3Ps08=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\trkbg\\Documents\\Projelerim\\Deneme To Do App\\ToDoAppAPI\\ToDoAppAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\trkbg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.13\\microsoft.aspnetcore.openapi.10.0.13.nupkg.sha512",
+    "C:\\Users\\trkbg\\.nuget\\packages\\microsoft.openapi\\2.12.2\\microsoft.openapi.2.12.2.nupkg.sha512"
+  ],
+  "logs": []
+}
