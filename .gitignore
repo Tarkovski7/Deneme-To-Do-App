@@ -1,0 +1,5 @@
+# Written by Karqen with this delivery: build output and local secrets.
+# It is yours to edit — Karqen never overwrites an existing .gitignore.
+.env
+bin/
+obj/
